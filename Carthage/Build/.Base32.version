@@ -1,0 +1,17 @@
+{
+  "commitish" : "1.1.2+xcode10.2",
+  "iOS" : [
+    {
+      "hash" : "f83e7aade730c3cc9b6133ac70f5084f735ace68881a82da2c8721a9d4da7e2e",
+      "name" : "Base32",
+      "container" : "Base32.xcframework",
+      "identifier" : "ios-arm64_i386_x86_64-simulator"
+    },
+    {
+      "hash" : "fa32e79ac56712ebb47179944babf4c66de1f7e3c8681760dd60866d89561c23",
+      "name" : "Base32",
+      "container" : "Base32.xcframework",
+      "identifier" : "ios-arm64_armv7"
+    }
+  ]
+}
